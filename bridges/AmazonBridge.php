@@ -30,6 +30,7 @@ class AmazonBridge extends BridgeAbstract {
 			'name' => 'Country',
 			'type' => 'list',
 			'values' => array(
+				'Turkey' => 'com.tr',
 				'Australia' => 'com.au',
 				'Brazil' => 'com.br',
 				'Canada' => 'ca',
